@@ -1,6 +1,6 @@
 
 # Paste your cookie string here
-cookie_string = ""
+cookie_string = "https://cdn.mediago.io/js/cookieSync.html?tn=41b6e88a2b85b0e731ef8e73e5558712"
 
 # Dict to store cookies
 cookies = {}
